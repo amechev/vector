@@ -1,0 +1,26 @@
+.section._calc {
+    background: #F5F5F5;
+}
+
+.section._calc_result {
+    padding-top: 30px;
+}
+
+.form-calc {
+    max-width: 350px;
+    margin: auto;
+}
+
+.form-calc .button {
+    width: 100%;
+}
+
+.result {
+    text-align: center;
+}
+
+.sum {
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+}
